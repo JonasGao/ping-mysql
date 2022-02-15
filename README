@@ -1,0 +1,3 @@
+Very simple tool just for: test whether the server can connect to a remote MySQL server ~
+
+Note: the url parameter please input full jdbc url. like "jdbc:mysql://..." or "jdbc:oracle:thin:@...."
